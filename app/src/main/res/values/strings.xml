@@ -1,0 +1,23 @@
+<resources>
+    <!-- APP String -->
+    <string name="app_name">CA 应用商店</string>
+    <string name="app_size">6.80MB</string>
+    <string name="app_description">"这是一款实现内网高速免流量下载app的软件"</string>
+    <string name="app_author">Codimiracle</string>
+    <string name="app_author_email">Codimiracle@outlook.com</string>
+    <string name="app_double_back">再按一次退出</string>
+
+    <string name="app_tags_recommend">推荐软件</string>
+    <string name="app_tags_lookat">看看这些</string>
+    <string name="app_tags_categories">软件分类</string>
+    <string name="app_tags_settings">软件管理</string>
+
+    <!-- Layout String -->
+    <string name="download">下载</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_download">Download</string>
+</resources>

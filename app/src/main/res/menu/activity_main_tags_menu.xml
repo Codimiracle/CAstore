@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/app_tags_recommend"
+        android:orderInCategory="90"
+        android:title="@string/app_tags_recommend"
+        android:icon="@mipmap/recommend"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/app_tags_lookat"
+        android:icon="@mipmap/random_app"
+        android:orderInCategory="100"
+        android:title="@string/app_tags_lookat" />
+    <item
+        android:id="@+id/app_tags_categories"
+        android:orderInCategory="100"
+        android:title="@string/app_tags_categories"
+        android:icon="@mipmap/categories"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/app_tags_settings"
+        android:icon="@mipmap/settings"
+        android:orderInCategory="100"
+        android:title="@string/app_tags_settings" />
+
+</menu>
